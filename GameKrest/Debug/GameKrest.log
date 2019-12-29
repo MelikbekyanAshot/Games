@@ -1,0 +1,182 @@
+﻿  Main.cpp
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(218,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(218,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(218,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(218,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(218,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(218,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(218,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(218,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(218,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(218,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(227,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(227,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(227,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(227,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(227,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(227,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(227,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(227,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(227,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(227,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(237,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(237,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(237,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(237,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(237,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(237,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(237,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(237,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(237,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(237,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(247,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(247,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(247,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(247,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(247,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(247,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(247,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(247,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(247,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(247,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(257,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(257,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(257,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(257,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(257,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(257,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(257,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(257,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(257,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(257,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(267,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(267,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(267,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(267,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(267,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(267,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(267,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(267,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(267,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(267,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(277,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(277,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(277,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(277,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(277,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(277,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(277,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(277,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(277,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(277,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(287,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(287,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(287,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(287,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(287,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(287,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(287,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(287,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(287,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(287,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(297,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(297,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(297,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(297,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(297,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(297,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(297,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(297,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(297,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(297,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(314,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(314,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(314,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(314,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(314,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(314,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(314,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(314,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(314,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(314,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(324,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(324,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(324,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(324,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(324,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(324,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(324,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(324,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(324,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(324,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(334,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(334,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(334,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(334,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(334,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(334,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(334,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(334,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(334,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(334,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(344,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(344,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(344,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(344,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(344,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(344,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(344,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(344,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(344,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(344,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(354,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(354,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(354,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(354,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(354,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(354,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(354,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(354,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(354,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(354,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(364,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(364,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(364,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(364,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(364,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(364,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(364,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(364,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(364,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(364,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(374,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(374,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(374,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(374,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(374,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(374,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(374,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(374,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(374,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(374,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(384,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(384,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(384,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(384,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(384,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(384,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(384,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(384,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(384,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(384,44): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(394,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(394,52): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(394,52): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(394,52): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(394,52): warning C4244:         ]
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(394,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(394,44): warning C4244:         with
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(394,44): warning C4244:         [
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(394,44): warning C4244:             T=float
+C:\Users\solod_000\Desktop\c++\GameKrest\Main.cpp(394,44): warning C4244:         ]
+  GameKrest.vcxproj -> C:\Users\solod_000\Desktop\c++\GameKrest\Debug\GameKrest.exe
